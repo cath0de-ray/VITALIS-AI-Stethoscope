@@ -9,7 +9,8 @@
 ## 👥 Development Team
 * **Pradhumya Singh Yadav**
 ---
-## Data Collection GoogleSheet https://docs.google.com/spreadsheets/d/1PQ8IrSCbB4RT1YasqXPo0PYN3hZgyODFfWerC2Cv7SQ/edit?usp=sharing
+## Data Collection GoogleSheet
+ https://docs.google.com/spreadsheets/d/1PQ8IrSCbB4RT1YasqXPo0PYN3hZgyODFfWerC2Cv7SQ/edit?usp=sharing
 
 ## 🩺 Executive Summary
 **VITALIS** (Versatile Intelligent Thoracic Acoustic Lung Inference System) is an low-cost, offline AI diagnostic tool. It is engineered as a attachment that fits onto standard analog stethoscope. 
