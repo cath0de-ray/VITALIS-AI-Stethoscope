@@ -8,6 +8,8 @@
 
 ## 👥 Development Team
 * **Pradhumya Singh Yadav**
+* **Dhairya Chaudhary**
+* **Aryan Chauhan**
 ---
 ## Data Collection GoogleSheet
 
